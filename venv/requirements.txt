@@ -1,0 +1,5 @@
+pandas 
+openai
+google-generativeai
+scikit-learn
+rouge-score
